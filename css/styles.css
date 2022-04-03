@@ -1,0 +1,200 @@
+a {
+    text-decoration: none;
+    color: #223540;
+}
+
+a:hover {
+    color: #709eb8;
+    font-weight: bolder;
+}
+
+.art_3d {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+#art_3d_row {
+    margin-bottom: 40px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #223540;
+}
+
+.bottom-container {
+    background-color: #3282B8;
+    padding: 50px 50px;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 200px;
+}
+
+.btn {
+  background: #3282B8;
+  background-image: -webkit-linear-gradient(top, #3282B8, #0F4C75);
+  background-image: -moz-linear-gradient(top, #3282B8, #0F4C75);
+  background-image: -ms-linear-gradient(top, #3282B8, #0F4C75);
+  background-image: -o-linear-gradient(top, #3282B8, #0F4C75);
+  background-image: linear-gradient(to bottom, #3282B8, #0F4C75);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #BBE1FA;
+  background-image: -webkit-linear-gradient(top, #42adf5, #3282B8);
+  background-image: -moz-linear-gradient(top, #42adf5, #3282B8);
+  background-image: -ms-linear-gradient(top, #42adf5, #3282B8);
+  background-image: -o-linear-gradient(top, #42adf5, #3282B8);
+  background-image: linear-gradient(to bottom, #42adf5, #3282B8);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.certificates {
+    width: 80%;
+}
+
+.contact-me {
+    padding-bottom: 60px;
+}
+
+#copy_right {
+    padding-top: 20px;
+    font-weight: bolder;
+    color: #1B262C;
+}
+
+.description {
+    width: 30%;
+    margin: 0 auto 55px auto;
+    line-height: 2;
+}
+
+.division {
+    border-top: dotted #BBE1FA;
+    border-width: 6px 0 0 0;
+    width: 10%;
+}
+
+.end_message {
+    margin-bottom: 55px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.footer-link {
+    color: #223540;
+    font-weight: bolder;
+    padding: 0 15px 0 15px;
+}
+
+.footer-link:hover {
+    color: #000000;
+    font-weight: 900;
+}
+
+.medicine {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+.my_photo {
+    margin-top: 60px;
+    width: 15%;
+    border-radius: 150px;
+}
+
+.middle-container {
+}
+
+h1 {
+    margin: 50px auto 0px auto;
+    font-size: 90px;
+    font-family: 'Inspiration', cursive;
+    color: #1B262C;
+}
+
+h2 {
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    color: #0F4C75;
+}
+
+h3 {
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: bold;
+    color: #0F4C75;
+}
+
+h4 {
+    font-family: 'Red Hat Mono', monospace;
+    font-weight: bold;
+    color: #0F4C75;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+
+.icons_link {
+    text-decoration: none;
+}
+
+.programming {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill_table {
+    margin: 15px auto 0 auto;
+    text-align: left;
+    font-size: 13px;
+    line-height: 2;
+    clear: left;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.table_cell {
+    vertical-align: top;
+    width: 20%;
+}
+
+.table_text {
+    margin-top: 0;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+.top-container {
+    padding-top: 100px;
+    background-color: #3282B8;
+}
+
+
+
